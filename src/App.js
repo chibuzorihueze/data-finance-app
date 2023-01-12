@@ -1,7 +1,7 @@
-import Nav from "./components/Nav.jsx";
+import Navbar from "./components/Navbar.jsx";
 
 function App() {
-  return <Nav />;
+  return <Navbar />;
 }
 
 export default App;
