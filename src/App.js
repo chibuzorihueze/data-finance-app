@@ -1,9 +1,7 @@
-import './App.css';
+import Nav from "./components/Nav.jsx";
 
 function App() {
-  return (
-    <div>this</div>
-    );
+  return <Nav />;
 }
 
 export default App;
